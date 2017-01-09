@@ -2,13 +2,6 @@ RELEASE NOTES
 
     File          : RELEASENOTES.txt
     Time-stamp    : 2016-12-19 akash singh
-    Description   : Release notes for release 1.
-    Amount of work: 32 h
-    
-VIDEO PRESENTATION ABOUT THE RELEASE
-
-    URL: https://youtu.be/86BF5RK5HgE
-    
     
 GENERAL INFO
 
