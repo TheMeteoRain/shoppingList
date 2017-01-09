@@ -1,0 +1,75 @@
+PRODUCT BACKLOG
+
+    File       : PRODUCTBACKLOG.txt
+    Time-stamp : 2016-11-20 Akash Singh
+    Description: Product Backlog is the master list of all functionality 
+                 desired in the product.
+
+PRODUCT BACKLOG WITH RELEASES
+
+    RELEASE 1: 2016-11-29
+
+    Backend
+    - MySQL database
+        - tables
+        - fields
+    - MySQL database connection
+        - Add item to database
+            - Currently does not add quantity to an existing item, if it exist.
+        - Add items to database
+        - Remove item from database
+        - Modify existing items
+        - Fetch items from database
+    - Model classes
+        - Item
+        - Items 
+    
+    Frontend (All of these features are made in local-mode and in remote-mode)
+    - Model classes
+        - Item
+        - Items 
+    - Menu
+        - Local-mode
+            - New file (empties the list)
+            - Open file
+            - Save file
+            - Combine files
+            - All changes on items are not instant, use 'save file' to save.
+        - Remote-mode
+            - Refresh (fetch items from database)
+            - All changes on items are instant
+    - Buttons
+        - Add (prompt pop-up window, that asks item quantity and name)
+            - Currently does not add quantity to an existing item, if it exist.
+        - Remove (select a row and press this button to delete the item)
+    - Show list (items and quantity)
+
+    RELEASE 2: 2016-12-07
+
+    Empty.
+
+    RELEASE 3: 2016-12-20
+
+    - CLI functionality
+    - Add button
+        - Find if items exists, if so add quantity to existing item.
+    - Fix name schemas
+    - Add documentation
+    - Test, find and fix bugs
+    
+    - CLI functionality
+    - Add button
+        - Find if items exists, if so add quantity to existing item.
+    - Fix name schemas
+    - Add documentation
+    - Test, find  and fix bugs
+    
+    Remote-mode
+        - Combine list
+            - Allows users to combine offline file to database.
+    
+    Backend & Frontend
+        - Application now receives response messages from backend.
+    
+    
+End of file.
