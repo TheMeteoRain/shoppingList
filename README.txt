@@ -11,7 +11,6 @@ GENERAL INFO
     Developer        : Akash Singh, akash.singh@cs.tamk.fi
     Device target(s) : PC
     Price            : free
-    Url(s)           : https://youtu.be/86BF5RK5HgE
 
 DESCRIPTION OF THE PRODUCT
 
