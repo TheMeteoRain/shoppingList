@@ -1,0 +1,59 @@
+RELEASE NOTES
+
+    File          : RELEASENOTES.txt
+    Time-stamp    : 2016-12-19 akash singh
+    Description   : Release notes for release 1.
+    Amount of work: 32 h
+    
+VIDEO PRESENTATION ABOUT THE RELEASE
+
+    URL: https://youtu.be/86BF5RK5HgE
+    
+    
+GENERAL INFO
+
+    There were many small changes made, since the application was 
+    almost done at the first release. But there were 2 big additions 
+    at this release. First one was combine list in remote-mode and
+    other one was that application now receives responses from backend.
+    Both of those features were not initially at product backlog.
+    
+    There were not any technical difficulties while making this project.
+    Teacher had good instructions and videos for material.
+    Everything went smoothly.
+
+    
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - CLI functionality
+    - Add button
+        - Find if items exists, if so add quantity to existing item.
+    - Fix name schemas
+    - Add documentation
+    - Test, find  and fix bugs
+
+    
+IMPLEMENTED FEATURES
+
+    - CLI functionality
+    - Add button
+        - Find if items exists, if so add quantity to existing item.
+    - Fix name schemas
+    - Add documentation
+    - Test, find  and fix bugs
+    
+    Remote-mode
+        - Combine list
+            - Allows users to combine offline file to database.
+    
+    Backend & Frontend
+        - Application now receives response messages from backend.
+
+        
+FEATURES NOT IMPLEMENTED
+
+
+
+End of file.

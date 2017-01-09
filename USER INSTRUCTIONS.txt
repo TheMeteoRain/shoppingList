@@ -1,0 +1,27 @@
+
+Shopping List Application by Akash Singh
+2016-12-19
+
+Two ways to run application:
+    java -jar shoppingList.jar cli
+    java -jar shoppingList.jar gui
+
+    
+CLI-version has three simple functions:
+    - Add item
+    - Add items
+    - Show items
+    
+GUI-version is more rich with functionalities. And there are two ways 
+to use GUI-version. One is local-mode and other one is remote-mode.
+With local-mode you can make text files from shopping lists.
+Local-mode functions:
+    - Add/edit/remove item
+    - Save shopping list
+    - Open shopping list
+    - Combine shopping lists
+Remote-mode allows users to make changes to database shopping list.
+Remote-mode functions:
+    - Add/edit/remove item
+    - Fetch items from database
+    - Combine shopping lists (loca file to database)
